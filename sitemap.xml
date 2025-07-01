@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://standart.website</loc>
+    <image:image><image:loc>https://standart.website/img/image.png</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/logo.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i01.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i02.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i03.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i04.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i05.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i06.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i07.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i08.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i09.svg</image:loc></image:image>
+    <image:image><image:loc>https://standart.website/img/i10.svg</image:loc></image:image>
+  </url>
+</urlset>

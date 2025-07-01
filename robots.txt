@@ -1,0 +1,3 @@
+Sitemap: https://standart.website/sitemap.xml
+User-agent: *
+Disallow:

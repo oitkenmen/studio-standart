@@ -1,0 +1,56 @@
+
+  Copyright (c) 2020 Standart, Almaty, Kazakhstan. All rights reserved.
+
+# PEOPLE
+
+  Nurzhan Berkimbayev | Design & Development
+
+# TECHNOLOGY
+
+  Adobe Illustrator | https://www.adobe.com/products/illustrator
+  Google Analytics | https://www.google.com/analytics
+  Google Firebase | https://firebase.google.com
+  Microsoft WebMatrix 3 | https://www.iis.net/downloads
+
+  https://realfavicongenerator.net
+  https://www.willpeavy.com/minifier
+
+# HTML
+
+  https://validator.w3.org
+
+  https://htmlhead.dev
+  https://github.com/audreyr/favicon-cheat-sheet
+  https://www.iana.org/assignments/link-relations/link-relations.xhtml
+  https://wiki.whatwg.org/wiki/MetaExtensions
+  https://schema.org/ProfessionalService
+  https://ogp.me
+  https://www.sqreen.com/checklists/html-css-security-checklist
+
+  https://web.dev/measure
+  https://www.thinkwithgoogle.com/intl/en-gb/feature/testmysite
+
+# CSS
+
+  https://jigsaw.w3.org/css-validator
+
+  https://css-tricks.com/snippets/css/complete-guide-grid
+  https://css-tricks.com/snippets/css/using-font-face
+  https://css-tricks.com/html-vs-body-in-css
+
+  https://material.io/resources/devices
+
+# JAVASCRIPT
+
+  https://embed.plnkr.co/plunk/29jeYo
+
+# FONTS
+
+  JetBrains Mono | (c) JetBrains | https://www.jetbrains.com/mono
+
+  https://webkit.org/blog/6643/improved-font-loading
+  https://habr.com/ru/post/166291
+
+# SVG
+
+  https://svgontheweb.com
